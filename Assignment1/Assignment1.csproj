@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Assignment1.Assi10</StartupObject>
+    <StartupObject>Assignment1.vowel</StartupObject>
   </PropertyGroup>
 
 </Project>
