@@ -20,7 +20,7 @@ namespace Assignment1
             }
             else
             {
-                Console.WriteLine("Not Divisible");
+                Console.WriteLine("Not a Divisible");
             }
         }
     }
